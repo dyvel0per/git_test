@@ -1,0 +1,1 @@
+This is my first project. I want to learn web development, both frontend and backend. I would love to learn to set up websites and possibly do web dev in the future.
